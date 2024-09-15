@@ -1,0 +1,14 @@
+C:\repos\maximum-bc-20240819\C-sharp-repos\Hangman_Game\Hangman_Game\bin\Debug\net8.0\Hangman_Game.exe
+C:\repos\maximum-bc-20240819\C-sharp-repos\Hangman_Game\Hangman_Game\bin\Debug\net8.0\Hangman_Game.deps.json
+C:\repos\maximum-bc-20240819\C-sharp-repos\Hangman_Game\Hangman_Game\bin\Debug\net8.0\Hangman_Game.runtimeconfig.json
+C:\repos\maximum-bc-20240819\C-sharp-repos\Hangman_Game\Hangman_Game\bin\Debug\net8.0\Hangman_Game.dll
+C:\repos\maximum-bc-20240819\C-sharp-repos\Hangman_Game\Hangman_Game\bin\Debug\net8.0\Hangman_Game.pdb
+C:\repos\maximum-bc-20240819\C-sharp-repos\Hangman_Game\Hangman_Game\obj\Debug\net8.0\Hangman_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\maximum-bc-20240819\C-sharp-repos\Hangman_Game\Hangman_Game\obj\Debug\net8.0\Hangman_Game.AssemblyInfoInputs.cache
+C:\repos\maximum-bc-20240819\C-sharp-repos\Hangman_Game\Hangman_Game\obj\Debug\net8.0\Hangman_Game.AssemblyInfo.cs
+C:\repos\maximum-bc-20240819\C-sharp-repos\Hangman_Game\Hangman_Game\obj\Debug\net8.0\Hangman_Game.csproj.CoreCompileInputs.cache
+C:\repos\maximum-bc-20240819\C-sharp-repos\Hangman_Game\Hangman_Game\obj\Debug\net8.0\Hangman_Game.dll
+C:\repos\maximum-bc-20240819\C-sharp-repos\Hangman_Game\Hangman_Game\obj\Debug\net8.0\refint\Hangman_Game.dll
+C:\repos\maximum-bc-20240819\C-sharp-repos\Hangman_Game\Hangman_Game\obj\Debug\net8.0\Hangman_Game.pdb
+C:\repos\maximum-bc-20240819\C-sharp-repos\Hangman_Game\Hangman_Game\obj\Debug\net8.0\Hangman_Game.genruntimeconfig.cache
+C:\repos\maximum-bc-20240819\C-sharp-repos\Hangman_Game\Hangman_Game\obj\Debug\net8.0\ref\Hangman_Game.dll
